@@ -2,7 +2,7 @@
 
 Estudante do 6º semestre de Engenharia de Software na Universidade Católica de Brasília (UCB), com experiência em dados e back-end.
 
-- **Estagiário de Migração de Dados na First Decision**: migração de dados entre sistemas com IBM DataStage e Pentaho Data Integration, desenvolvimento de jobs ETL e validação com SQL.
+- **Estagiário de Migração de Dados na First Decision**: migração de dados entre sistemas com SAP Data Services e Pentaho Data Integration, desenvolvimento de jobs ETL e validação com SQL.
 - **Estagiário na BWA Logística**: automações de extração e tratamento de dados (ETL) e serviços da AWS (S3, EC2, IAM).
 - Estudo e pratico Java (Spring Boot), Python, modelagem de banco de dados e APIs REST.
 
@@ -20,7 +20,7 @@ Estudante do 6º semestre de Engenharia de Software na Universidade Católica de
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
-![IBM DataStage](https://img.shields.io/badge/IBM_DataStage-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![SAP Data Services](https://img.shields.io/badge/SAP_Data_Services-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 ![Pentaho](https://img.shields.io/badge/Pentaho_PDI-005F9E?style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
