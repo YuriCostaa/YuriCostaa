@@ -29,12 +29,16 @@ Estudante do 6º semestre de Engenharia de Software na Universidade Católica de
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ## Projetos
 
 | Projeto | Descrição | Stack |
 |---|---|---|
+| [ETL de Migração de Clientes](https://github.com/YuriCostaa/etl-migracao-clientes) | Pipeline de migração de cadastro com regras de relevância, transformação, validação por tabelas de check e reconciliação origem x destino (dados fictícios) | Python, SQL, SQLite, pytest |
+| [Robô de Relatório de Vendas](https://github.com/YuriCostaa/robo-relatorio-vendas) | RPA que faz login num portal, baixa a planilha do mês, gera o relatório e envia por Telegram ou webhook, com códigos de saída por tipo de falha | Python, Playwright, openpyxl |
+| [Binder Pokémon TCG](https://github.com/YuriCostaa/binder-pokemon-tcg) | App web para acompanhar uma coleção de cartas, com filtros, progresso e PDF das cartas faltantes ([ver online](https://yuricostaa.github.io/binder-pokemon-tcg/)) | HTML, CSS, JavaScript |
 | [Monitoramento de Consumo de Água (API)](https://github.com/YuriCostaa/monitoramento-agua-api) | API REST com autenticação JWT para registro e consulta de leituras de hidrômetros, com dashboard web | Java 17, Spring Boot, Spring Security, JPA, MySQL |
 | [Monitoramento de Água (Banco de Dados)](https://github.com/YuriCostaa/monitoramentodeagua) | Modelagem e scripts SQL (DDL e DML) do banco do sistema de monitoramento | MySQL |
 | [GRASP](https://github.com/YuriCostaa/GRASP) | Sistema de pedidos de lanchonete aplicando os padrões GRASP Controller e Creator | Java |
